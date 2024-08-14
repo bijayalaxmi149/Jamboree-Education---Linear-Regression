@@ -1,12 +1,12 @@
-# 🎓 Jamboree Education - Graduate Admissions Analysis
+# **🎓 Jamboree Education - Graduate Admissions Analysis**
 
 🚀 Dive into the world of graduate admissions with our comprehensive case study on predicting the probability of admission into Ivy League colleges! Using the "Jamboree-Education---Linear-Regression" dataset, we explore key factors influencing graduate admissions and provide data-driven insights to optimize student success.
 
-### 📄 Project Overview
+## 📄 Project Overview
 
 Jamboree has a track record of guiding students toward top international universities. This project focuses on analyzing the factors that impact graduate admissions from an Indian perspective. By leveraging descriptive analytics and linear regression models, we aim to understand the significance of various factors and predict the likelihood of admission.
 
-### 🛠️ Key Analysis Points
+## 🛠️ Key Analysis Points
 
 **1. Exploratory Data Analysis (EDA):**
 
@@ -26,9 +26,9 @@ Jamboree has a track record of guiding students toward top international univers
 
 Providing strategic insights based on the analysis to help Jamboree enhance their admission prediction model and offer personalized guidance to prospective students.
 
-### 📊 Dataset Information
+## 📊 Dataset Information
 
-**Dataset Link**: jamboree_admission.csv
+**Dataset Link**: Jamboree_Admission.csv
 
 **Columns**:
 - Serial No.
@@ -40,6 +40,6 @@ Providing strategic insights based on the analysis to help Jamboree enhance thei
 - Research Experience (0 or 1)
 - Chance of Admit (0 to 1)
 
-### 💡 Conclusion
+## 💡 Conclusion
 
 This project uncovers the critical factors influencing graduate admissions and demonstrates how predictive modeling can be applied to estimate a student's chance of acceptance into prestigious universities. By understanding these dynamics, Jamboree can further refine their student advisory services and improve the accuracy of their admission prediction tool.
